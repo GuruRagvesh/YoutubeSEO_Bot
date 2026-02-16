@@ -2,5 +2,8 @@ fastapi
 uvicorn
 python-dotenv
 requests
-pydantic
+feedparser
+pytrends
+praw
+pandas
 
